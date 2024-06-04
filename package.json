@@ -1,0 +1,15 @@
+{
+  "name": "nodewithdocker",
+  "version": "1.0.0",
+  "description": "this is just a node js crud app with docker support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Mante Amo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "js": "^0.1.0"
+  }
+}
